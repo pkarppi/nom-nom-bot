@@ -1,0 +1,17 @@
+{
+    "name": "pkarppi/lounaat-slack-bot",
+    "description": "Fetch nearby restaurant lunch menus and show it in your Slack.",
+    "type": "project",
+    "license": "gpl",
+    "authors": [
+        {
+            "name": "Petteri Karppinen",
+            "email": "petteri.karppinen@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "voku/simple_html_dom": "^4.8",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
